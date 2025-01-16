@@ -11,7 +11,7 @@ presskit_download_link                    : https://emilbaehr.com               
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : XTube                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : ProTube                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Enhanced YouTube experience with no ads, Picture-in-Picture, background playback, and more premium features.
 
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : XTube.Dev                                
+your_name                                 : ProTube.Dev                                
 your_link                                 : https://emilbaehr.com                     
 your_city                                 : Copenhagen                                
 email_address                             : pessix.dev@gmail.com
