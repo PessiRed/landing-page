@@ -4,7 +4,7 @@ Last updated: March 2024
 
 ## Introduction
 
-This Licensed Application End User License Agreement ("Terms") is a binding agreement between you and Protube ("we", "us", or "our"). These Terms govern your use of the Protube iOS application ("Licensed Application" or "App").
+This Licensed Application End User License Agreement ("Terms") is a binding agreement between you and Gtube ("we", "us", or "our"). These Terms govern your use of the Gtube iOS application ("Licensed Application" or "App").
 
 ## 1. Scope of License
 
@@ -12,7 +12,7 @@ The App is licensed, not sold, to you. Your license to use the App is subject to
 
 ## 2. Description of Service
 
-Protube is an iOS application that enhances your YouTube mobile web experience by providing additional features such as:
+Gtube is an iOS application that enhances your YouTube mobile web experience by providing additional features such as:
 - Picture-in-picture playback
 - Background audio playback
 - Custom playback controls

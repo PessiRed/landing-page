@@ -10,7 +10,7 @@ Last updated: March 2024
 
 ## Introduction
 
-This Privacy Policy describes how Protube collects, uses, and shares your information when you use our iOS application.
+This Privacy Policy describes how Gtube collects, uses, and shares your information when you use our iOS application.
 
 ## Information We Collect
 
